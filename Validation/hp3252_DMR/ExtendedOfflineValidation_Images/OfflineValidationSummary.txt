@@ -1,0 +1,50 @@
+	PromptGT	mp3588	hp3252	format={}
+   mu_BPIX (um)	latexname=$\mu_\text{BPIX}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	-0.0681507	-0.0875	-0.0206336
+sigma_BPIX (um)	latexname=$\sigma_\text{BPIX}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	2.77783	1.24261	1.78933
+  sigma_mu_BPIX (um)	latexname=$\sigma\mu_\text{BPIX}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	0.0812802	0.036359	0.0523562
+  alignment_uncertainty_BPIX (um)	latexname=$\sigma_\text{align}_\text{BPIX}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	0	nan	nan
+  p_mean_equals_ideal_BPIX	latexname=$P(\mu_\text{BPIX}=\mu_\text{ideal})$	format={:.3g}	latexformat=${:.3g}$	1	1	1
+  p_RMS_equals_ideal_BPIX	latexname=$P(\sigma_\text{BPIX}=\sigma_\text{ideal})$	format={:.3g}	latexformat=${:.3g}$	1	0.9986	0.9991
+   mu_FPIX (um)	latexname=$\mu_\text{FPIX}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	-0.116995	-0.162064	-0.140364
+sigma_FPIX (um)	latexname=$\sigma_\text{FPIX}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	0.431129	0.779957	0.391461
+  sigma_mu_FPIX (um)	latexname=$\sigma\mu_\text{FPIX}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	0.0167944	0.0303828	0.0152492
+  alignment_uncertainty_FPIX (um)	latexname=$\sigma_\text{align}_\text{FPIX}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	0	6.4997e-05	nan
+  p_mean_equals_ideal_FPIX	latexname=$P(\mu_\text{FPIX}=\mu_\text{ideal})$	format={:.3g}	latexformat=${:.3g}$	1	1	1
+  p_RMS_equals_ideal_FPIX	latexname=$P(\sigma_\text{FPIX}=\sigma_\text{ideal})$	format={:.3g}	latexformat=${:.3g}$	1	1	1
+   mu_TIB (um)	latexname=$\mu_\text{TIB}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	0.0540747	0.0478121	0.0613408
+sigma_TIB (um)	latexname=$\sigma_\text{TIB}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	4.38839	4.33874	4.38477
+  sigma_mu_TIB (um)	latexname=$\sigma\mu_\text{TIB}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	0.0879262	0.0869315	0.0878537
+  alignment_uncertainty_TIB (um)	latexname=$\sigma_\text{align}_\text{TIB}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	0	nan	nan
+  p_mean_equals_ideal_TIB	latexname=$P(\mu_\text{TIB}=\mu_\text{ideal})$	format={:.3g}	latexformat=${:.3g}$	1	1	1
+  p_RMS_equals_ideal_TIB	latexname=$P(\sigma_\text{TIB}=\sigma_\text{ideal})$	format={:.3g}	latexformat=${:.3g}$	1	1	1
+   mu_TID (um)	latexname=$\mu_\text{TID}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	-0.0318357	-0.036457	-0.0454429
+sigma_TID (um)	latexname=$\sigma_\text{TID}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	3.00705	2.95287	2.97699
+  sigma_mu_TID (um)	latexname=$\sigma\mu_\text{TID}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	0.107739	0.105798	0.106662
+  alignment_uncertainty_TID (um)	latexname=$\sigma_\text{align}_\text{TID}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	0	nan	nan
+  p_mean_equals_ideal_TID	latexname=$P(\mu_\text{TID}=\mu_\text{ideal})$	format={:.3g}	latexformat=${:.3g}$	1	1	1
+  p_RMS_equals_ideal_TID	latexname=$P(\sigma_\text{TID}=\sigma_\text{ideal})$	format={:.3g}	latexformat=${:.3g}$	1	1	1
+   mu_TOB (um)	latexname=$\mu_\text{TOB}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	-0.233745	-0.24803	-0.28082
+sigma_TOB (um)	latexname=$\sigma_\text{TOB}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	8.10589	8.07238	8.10257
+  sigma_mu_TOB (um)	latexname=$\sigma\mu_\text{TOB}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	0.114338	0.113865	0.114291
+  alignment_uncertainty_TOB (um)	latexname=$\sigma_\text{align}_\text{TOB}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	0	nan	nan
+  p_mean_equals_ideal_TOB	latexname=$P(\mu_\text{TOB}=\mu_\text{ideal})$	format={:.3g}	latexformat=${:.3g}$	1	1	1
+  p_RMS_equals_ideal_TOB	latexname=$P(\sigma_\text{TOB}=\sigma_\text{ideal})$	format={:.3g}	latexformat=${:.3g}$	1	1	1
+   mu_TEC (um)	latexname=$\mu_\text{TEC}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	-0.0271	-0.0458959	-0.042686
+sigma_TEC (um)	latexname=$\sigma_\text{TEC}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	6.37434	6.37798	6.36336
+  sigma_mu_TEC (um)	latexname=$\sigma\mu_\text{TEC}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	0.0805524	0.0805984	0.0804136
+  alignment_uncertainty_TEC (um)	latexname=$\sigma_\text{align}_\text{TEC}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	0	2.15459e-05	nan
+  p_mean_equals_ideal_TEC	latexname=$P(\mu_\text{TEC}=\mu_\text{ideal})$	format={:.3g}	latexformat=${:.3g}$	1	1	1
+  p_RMS_equals_ideal_TEC	latexname=$P(\sigma_\text{TEC}=\sigma_\text{ideal})$	format={:.3g}	latexformat=${:.3g}$	1	1	1
+   mu_BPIX_y (um)	latexname=$\mu_\text{BPIX}^{y}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	-0.0427226	0.153596	0.192466
+sigma_BPIX_y (um)	latexname=$\sigma_\text{BPIX}^{y}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	11.7934	4.48588	6.01112
+  sigma_mu_BPIX_y (um)	latexname=$\sigma\mu_\text{BPIX}^{y}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	0.345077	0.131258	0.175887
+  alignment_uncertainty_BPIX_y (um)	latexname=$\sigma_\text{align}_\text{BPIX}^{y}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	0	nan	nan
+  p_mean_equals_ideal_BPIX_y	latexname=$P(\mu_\text{BPIX}=\mu_\text{ideal})^{y}$	format={:.3g}	latexformat=${:.3g}$	1	0.9999	1
+  p_RMS_equals_ideal_BPIX_y	latexname=$P(\sigma_\text{BPIX}=\sigma_\text{ideal})^{y}$	format={:.3g}	latexformat=${:.3g}$	1	0.9948	0.9968
+   mu_FPIX_y (um)	latexname=$\mu_\text{FPIX}^{y}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	-0.142489	-0.215933	-0.18786
+sigma_FPIX_y (um)	latexname=$\sigma_\text{FPIX}^{y}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	0.702942	0.955205	0.583073
+  sigma_mu_FPIX_y (um)	latexname=$\sigma\mu_\text{FPIX}^{y}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	0.0273827	0.0372095	0.0227133
+  alignment_uncertainty_FPIX_y (um)	latexname=$\sigma_\text{align}_\text{FPIX}^{y}$ ($\mu$m)	format={:.3g}	latexformat=${:.3g}$	0	6.46753e-05	nan
+  p_mean_equals_ideal_FPIX_y	latexname=$P(\mu_\text{FPIX}=\mu_\text{ideal})^{y}$	format={:.3g}	latexformat=${:.3g}$	1	1	1
+  p_RMS_equals_ideal_FPIX_y	latexname=$P(\sigma_\text{FPIX}=\sigma_\text{ideal})^{y}$	format={:.3g}	latexformat=${:.3g}$	1	1	1
+ntracks	1.8e+06	1.8e+06	1.8e+06
