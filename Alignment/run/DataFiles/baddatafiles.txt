@@ -1,0 +1,6 @@
+If any data files are bad (e.g. not at CERN), put them here,
+separated by newlines or spaces or nothing or whatever you like.
+Anything else in this file, like these lines, will be ignored.
+You can also run hippyaddtobaddatafiles.py .../align_cfg.py to automatically
+find bad data files.
+Running jobs will automatically pick up changes here next time they resubmit.
